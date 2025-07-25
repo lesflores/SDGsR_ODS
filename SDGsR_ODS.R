@@ -22,7 +22,5 @@ View(datos_1662)
 
 # Para citar la publicación 
 citation("SDGsR")
-
 # Grainger M (2021). _SDGsR: Interface with the UN SDGs API to get data about the Sustainable Development Goals_. R package
 # version 0.0.0.9000, commit fa1898e88b9a31a05c2b722f36d6993595536a12, <https://github.com/DrMattG/SDGsR>.
-
