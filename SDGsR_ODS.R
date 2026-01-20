@@ -1,4 +1,8 @@
-# ---------------- ODS
+# ---------------- 
+# ODS 🕊️
+# Profesora: Lesly Flores
+# Universidad de Guanajuato
+# ----------------
 
 # Instala desde GitHub
 devtools::install_github("DrMattG/SDGsR", dependencies = TRUE)
